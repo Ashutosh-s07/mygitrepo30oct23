@@ -1,4 +1,12 @@
 this is my javaFile
 2nd Line of code by dev_B
 3rd Line of code by dev_d 
+<<<<<<< Updated upstream
 4th line of code by edv_A
+
+git stash check ok !
+=======
+4th line of code by dev_A
+5th line of code for stash check
+6th line of code for stash check
+>>>>>>> Stashed changes
